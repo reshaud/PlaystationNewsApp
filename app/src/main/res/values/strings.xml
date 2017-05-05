@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">PlaystationNewsApp</string>
+    <string name="dummy_title">Title</string>
+    <string name="dummy_section">Section</string>
+    <string name="dummy_date">Date</string>
+    <string name="no_internet">Not connected to the internet</string>
+    <string name="no_data">No Playstation News found</string>
+    <string name="settings_title">Refresh News</string>
+</resources>
